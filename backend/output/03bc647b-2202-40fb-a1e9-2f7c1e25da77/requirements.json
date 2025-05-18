@@ -1,0 +1,60 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Developed an AI-driven health monitoring system for real-time health data analysis, optimizing predictive analytics",
+            "Engineered an IoT-based automation system using Arduino and MQTT for real-time infrastructure monitoring",
+            "Designed and deployed machine learning model using TensorFlow and Keras for defect detection in PCB manufacturing",
+            "Developed a CNN-based AI model using TensorFlow, Keras to classify ovarian cancer subtypes",
+            "Implemented Explainable AI (SHAP, Grad-CAM) for diagnostic transparency and transfer learning to boost model adaptability",
+            "Optimized model performance with hyperparameter tuning and data augmentation, achieving high accuracy",
+            "Developed an AI-powered deep learning system for detecting burnt marks, rust, water damage, and pad defects in printed circuit boards (PCBs)",
+            "Designed and implemented a scalable solution for real-time multi-class defect classification in a manufacturing",
+            "Optimized data augmentation and feature extraction, boosting defect detection to high accuracy",
+            "Built an AI-driven real-time health monitoring system using Django for predictive analytics",
+            "Developed a Django-based API-driven health monitoring system for real-time biometric data analysis",
+            "Implemented a user-friendly dashboard with personalized health recommendations for improved user well-being"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Optimizing predictive analytics, enhancing decision support, and improving patient care insights",
+            "Increasing operational efficiency and optimizing resource utilization",
+            "Improving accuracy, scalability, and production efficiency",
+            "Boosting model adaptability and enhanced generalization",
+            "Achieving high accuracy",
+            "Enhancing passenger safety"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "None"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "None"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "None"
+        ]
+    }
+}

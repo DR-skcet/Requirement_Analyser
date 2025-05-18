@@ -1,0 +1,77 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Develop AI-powered solutions for real-time health data analysis",
+            "Engineer IoT-based automation systems for real-time infrastructure monitoring",
+            "Design and deploy machine learning models for defect detection in PCB manufacturing",
+            "Develop CNN-based AI models for classifying ovarian cancer subtypes",
+            "Implement Explainable AI for diagnostic transparency and transfer learning",
+            "Optimize model performance with hyperparameter tuning and data augmentation",
+            "Develop AI-powered deep learning systems for detecting defects in printed circuit boards",
+            "Design and implement scalable solutions for real-time multi-class defect classification",
+            "Build AI-driven real-time health monitoring systems for predictive analytics",
+            "Implement user-friendly dashboards with personalized health recommendations"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Ensure high accuracy in AI-powered solutions",
+            "Optimize predictive analytics and decision support",
+            "Improve patient care insights",
+            "Enhance operational efficiency and optimize resource utilization",
+            "Improve accuracy, scalability, and production efficiency",
+            "Ensure high accuracy in defect detection",
+            "Boost model adaptability and enhanced generalization",
+            "Ensure high accuracy in real-time multi-class defect classification",
+            "Ensure high accuracy in real-time health monitoring systems"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "Use AI and machine learning to drive business decisions",
+            "Implement IoT-based automation for infrastructure monitoring",
+            "Use machine learning for defect detection in PCB manufacturing",
+            "Use CNN-based AI models for ovarian cancer subtype classification",
+            "Implement Explainable AI for diagnostic transparency and transfer learning",
+            "Optimize model performance with hyperparameter tuning and data augmentation",
+            "Use AI-powered deep learning systems for defect detection in printed circuit boards",
+            "Implement scalable solutions for real-time multi-class defect classification",
+            "Use AI-driven real-time health monitoring systems for predictive analytics"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "Limited data availability for AI model training",
+            "Limited infrastructure for IoT-based automation",
+            "Limited computational resources for machine learning model deployment",
+            "Limited expertise in AI and machine learning",
+            "Limited budget for cloud services and infrastructure"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "Availability of required data for AI model training",
+            "Availability of infrastructure for IoT-based automation",
+            "Availability of computational resources for machine learning model deployment",
+            "Availability of expertise in AI and machine learning",
+            "Availability of budget for cloud services and infrastructure"
+        ]
+    }
+}

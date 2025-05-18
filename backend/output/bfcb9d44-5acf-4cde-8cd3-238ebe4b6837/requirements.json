@@ -1,0 +1,54 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Developed an AI-powered solution for real-time health data analysis",
+            "Engineered an IoT-based automation system using Arduino and MQTT for real-time infrastructure monitoring",
+            "Designed and deployed machine learning model using TensorFlow and Keras for defect detection in PCB manufacturing",
+            "Developed a CNN-based AI model using TensorFlow, Keras, and OpenCV to classify ovarian cancer subtypes",
+            "Engineered a Deep Learning model using YOLOv5, Faster R-CNN, and OpenCV for automated PCB defect detection",
+            "Built an AI-driven real-time health monitoring system using LSTMs, Django, and MQTT for predictive analytics"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Optimized predictive analytics, enhancing decision support, and improving patient care insights",
+            "Increased operational efficiency and optimized resource utilization",
+            "Improved accuracy, scalability, and production efficiency",
+            "Achieved 88% accuracy in ovarian cancer detection",
+            "Achieved 89% accuracy in PCB defect detection",
+            "Achieved 90% accuracy in smart health monitoring"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "None"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "None"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "None"
+        ]
+    }
+}

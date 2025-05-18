@@ -1,0 +1,6 @@
+{
+    "requirements_text": {
+        "tag": {},
+        "requirements": "**Requirements Analysis**\n\n### Functional Requirements\n\n* The system should generate a Certificate of Completion.\n* The certificate should include the name of the individual (e.g., D U R A I R A J S).\n* The certificate should specify the department and year of study (e.g., Department of CSBS, Second Year).\n* The system should include the duration of the Internship Programme (e.g., 18th March \u2013 18th April, 2024).\n* The certificate should mention the programme completed (e.g., Machine Learning in TANSAM).\n* The system should generate a unique Certificate Number (e.g., COE/042024/DT/003).\n\n### Non-Functional Requirements\n\n* The system should provide a professional and formal tone in the certificate.\n* The certificate should be easy to read and understand.\n\n### Constraints\n\n* The system should adhere to the specified format and structure of the certificate.\n* The system should make assumptions about the accuracy of the input data (e.g., name, department, duration).\n\n### Assumptions\n\n* The input data is accurate and complete.\n* The system has access to the necessary information to generate the certificate."
+    }
+}

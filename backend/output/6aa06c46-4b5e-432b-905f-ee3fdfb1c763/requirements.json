@@ -1,0 +1,65 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Develop AI-powered solutions for real-time health data analysis and predictive analytics",
+            "Design and deploy machine learning models for defect detection in PCB manufacturing",
+            "Engineer IoT-based automation systems for real-time infrastructure monitoring",
+            "Develop CNN-based AI models for ovarian cancer detection",
+            "Build AI-driven real-time health monitoring systems for predictive analytics",
+            "Integrate TensorFlow Serving and Flask API for scalable real-time deployment",
+            "Implement Explainable AI (SHAP, Grad-CAM) for diagnostic transparency",
+            "Optimize model performance with hyperparameter tuning and data augmentation"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Ensure scalability and efficiency in AI-powered solutions",
+            "Improve accuracy and production efficiency in machine learning models",
+            "Enhance operational efficiency and optimize resource utilization in IoT-based automation systems",
+            "Achieve high accuracy (88%, 89%, 90%) in AI models for ovarian cancer detection, PCB defect detection, and smart health monitoring",
+            "Ensure real-time deployment and scalability in AI-driven health monitoring systems"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "Use TensorFlow, Keras, and OpenCV for AI model development",
+            "Implement data augmentation and hyperparameter tuning for model optimization",
+            "Use MQTT for real-time infrastructure monitoring",
+            "Integrate Flask API for scalable real-time deployment",
+            "Use AWS and Oracle Cloud for cloud deployment and management"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "Limited availability of resources (infrastructure, personnel) for IoT-based automation systems",
+            "Complexity in integrating multiple technologies (TensorFlow, Keras, OpenCV, Flask, MQTT) for AI-driven solutions",
+            "Need for high accuracy (88%, 89%, 90%) for reliable decision-making",
+            "Limited availability of data for model training and testing"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "Availability of necessary infrastructure and resources for AI-powered solutions",
+            "Availability of expertise in AI, machine learning, and IoT",
+            "Availability of necessary data for model training and testing",
+            "Compatibility of technologies (TensorFlow, Keras, OpenCV, Flask, MQTT) for integration"
+        ]
+    }
+}

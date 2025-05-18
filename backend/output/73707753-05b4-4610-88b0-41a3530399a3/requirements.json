@@ -1,0 +1,59 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Developed an AI-powered solution for real-time health data analysis",
+            "Engineered an IoT-based automation system using Arduino and MQTT for real-time infrastructure monitoring",
+            "Designed and deployed machine learning model using TensorFlow and Keras for defect detection in PCB manufacturing",
+            "Developed a CNN-based AI model using TensorFlow, Keras, and OpenCV to classify ovarian cancer subtypes",
+            "Implemented Explainable AI (SHAP, Grad-CAM) for diagnostic transparency and transfer learning for enhanced generalization",
+            "Optimized model performance with hyperparameter tuning and data augmentation",
+            "Engineered a Deep Learning model using YOLOv5, Faster R-CNN, and OpenCV for automated PCB defect detection",
+            "Integrated TensorFlow Serving and Flask API for scalable real-time deployment in a manufacturing pipeline",
+            "Built an AI-driven real-time health monitoring system using LSTMs, Django, and MQTT for predictive analytics",
+            "Developed an API-driven health monitoring system for real-time biometric data analysis"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Achieved 88% accuracy in ovarian cancer detection",
+            "Achieved 89% accuracy in PCB defect detection",
+            "Achieved 90% accuracy in smart health monitoring",
+            "Improved user health tracking and predictive analysis",
+            "Enhanced image preprocessing with OpenCV-based augmentation",
+            "Improved defect classification",
+            "Optimized model performance with hyperparameter tuning and data augmentation"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "None"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "None"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "None"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "requirements_text": {
+        "tag": {},
+        "requirements": "**Requirements Analysis**\n\n### Functional Requirements\n\n* The system should be able to use a key_id and key_secret for authentication purposes.\n* The system should be able to utilize the provided rzp_test_esyMR5Cw51NnrF and WyaIZoi0mX0IRPwUamUsPMqG credentials for testing.\n\n### Non-Functional Requirements**\n\n* None identified in the provided input text.\n\n### Constraints\n\n* The system must use the provided key_id and key_secret for authentication.\n* The system must use the provided rzp_test_esyMR5Cw51NnrF and WyaIZoi0mX0IRPwUamUsPMqG credentials for testing.\n\n### Assumptions\n\n* The provided key_id and key_secret are valid and correctly formatted for use in the system.\n* The provided rzp_test_esyMR5Cw51NnrF and WyaIZoi0mX0IRPwUamUsPMqG credentials are valid and correctly formatted for use in the system."
+    }
+}

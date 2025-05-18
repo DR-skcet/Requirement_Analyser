@@ -1,0 +1,6 @@
+{
+    "requirements_text": {
+        "tag": {},
+        "requirements": "**Requirements Analysis**\n\n### Functional Requirements\n\n* The system must generate a Certificate of Completion.\n* The certificate must include the following details:\n\t+ Name of the student (e.g., D U R A I R A J S)\n\t+ College/University name (e.g., S r i K r i s h n a C o l l e g e E n g i n e e r i n g a n d T e c h n o l o g y)\n\t+ Department name (e.g., CSBS)\n\t+ Year of study (e.g., Second Year)\n\t+ Internship Programme details (e.g., Machine Learning in TANSAM)\n\t+ Duration of the internship (e.g., 18th March \u2013 18th April, 2024)\n* The system must assign a unique Certificate Number (e.g., COE/042024/DT/003)\n\n### Non-Functional Requirements\n\n* The system must ensure the accuracy and validity of the certificate details.\n* The system must provide a professional and formal tone in the certificate.\n\n### Constraints\n\n* The system must adhere to the specified format and structure of the certificate.\n* The system must ensure that the certificate is generated within a reasonable timeframe (e.g., by the end of the internship period).\n\n### Assumptions\n\n* The system has access to the necessary student information and internship details.\n* The system has the necessary templates and formatting guidelines for generating the certificate."
+    }
+}

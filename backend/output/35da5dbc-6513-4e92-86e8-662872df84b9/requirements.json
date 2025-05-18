@@ -1,0 +1,68 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Develop AI-powered solutions for real-time health data analysis and predictive analytics",
+            "Design and deploy machine learning models for defect detection in PCB manufacturing",
+            "Engineer IoT-based automation systems for real-time infrastructure monitoring",
+            "Develop AI-driven real-time health monitoring systems for predictive analytics",
+            "Build CNN-based AI models for ovarian cancer detection",
+            "Implement Explainable AI for diagnostic transparency and transfer learning for enhanced generalization",
+            "Develop Deep Learning models for automated PCB defect detection",
+            "Integrate TensorFlow Serving and Flask API for scalable real-time deployment",
+            "Build AI-driven real-time health monitoring systems using LSTMs and Django"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Optimize model performance with hyperparameter tuning and data augmentation",
+            "Achieve high accuracy rates (e.g., 88%, 90%)",
+            "Ensure scalability and production efficiency",
+            "Implement Explainable AI for diagnostic transparency",
+            "Enhance image preprocessing with OpenCV-based augmentation",
+            "Improve user health tracking and predictive analysis"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "Use AWS and Oracle Cloud services for cloud deployment and operations",
+            "Ensure security and networking in cloud services",
+            "Implement cost management and IAM practices",
+            "Use TensorFlow, Keras, and OpenCV for AI and ML development",
+            "Utilize Django and MQTT for real-time analytics and IoT-based automation"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "Limited timeframe for project completion (e.g., March 2024 - April 2024)",
+            "Need for scalable innovation and deployment",
+            "Requirement for high-stakes business pitch events",
+            "Need for digital initiatives and campus ambassador roles"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "Availability of necessary resources and infrastructure for project development",
+            "Access to necessary data and tools for AI and ML development",
+            "Ability to work in a team and collaborate with others",
+            "Ability to adapt to new technologies and tools",
+            "Ability to communicate effectively and present ideas clearly"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "None"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "Performance: CGPA 7.77 (Upto July '24)",
+            "Usability: Introduction to Cyber Security, Deep Learning Workshop",
+            "Security: Introduction to Cyber Security",
+            "Compatibility: Introduction to MongoDb, UiPath Automation Explorer",
+            "User Experience: Introduction to Figma, Basic Web Development Quiz"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "None"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "None"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "None"
+        ]
+    }
+}

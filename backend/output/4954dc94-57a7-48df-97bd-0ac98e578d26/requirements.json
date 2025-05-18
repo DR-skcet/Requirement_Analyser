@@ -1,0 +1,58 @@
+{
+    "Functional Requirements": {
+        "tag": {
+            "IEEE": "3.2",
+            "ISO": "Functionality"
+        },
+        "requirements": [
+            "Application for Admission to B.E/B.Tech Degree Course",
+            "Online application submission",
+            "Uploading of required certificates and documents",
+            "Declaration by the applicant and parent/guardian"
+        ]
+    },
+    "Non-Functional Requirements": {
+        "tag": {
+            "IEEE": "3.3",
+            "ISO": "Usability"
+        },
+        "requirements": [
+            "User-friendly interface for easy submission of application",
+            "Secure online platform for uploading sensitive documents",
+            "Fast and efficient processing of applications"
+        ]
+    },
+    "Business Rules": {
+        "tag": {},
+        "requirements": [
+            "Applicant must be a citizen of India",
+            "Applicant must have qualified the TN-HSC or equivalent",
+            "Applicant must have a valid Aadhar number (optional)",
+            "Applicant must have a valid community certificate (if applicable)"
+        ]
+    },
+    "Constraints": {
+        "tag": {
+            "IEEE": "3.4",
+            "ISO": "Portability"
+        },
+        "requirements": [
+            "Must have studied VIII to XII in Tamil Nadu (if applicable)",
+            "Must have studied VI to VIII in private school under RTE and IX to XII in Government School (if applicable)",
+            "Must have a valid income certificate (if applicable)",
+            "Must have a valid differently abled certificate (if applicable)",
+            "Must have a valid special reservation form for sports and ex-serviceman (if applicable)"
+        ]
+    },
+    "Assumptions": {
+        "tag": {
+            "IEEE": "3.5",
+            "ISO": "Maintainability"
+        },
+        "requirements": [
+            "Applicant has a valid email address and mobile number for communication",
+            "Applicant has access to a computer and internet connection for online application submission",
+            "Applicant has all required documents and certificates ready for upload"
+        ]
+    }
+}
