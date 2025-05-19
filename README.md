@@ -1,36 +1,19 @@
-********AI-Powered Automated Requirement Gathering System********
+**AI-Powered Automated Requirement Gathering System**
 
-****Overview****
-This project leverages generative AI to automate the extraction and structuring of software requirements from multiple input formats such as PDFs, Word documents, Excel sheets, emails, images, and web pages. By integrating domain knowledge from public regulations and standards, it produces clear, standardized functional and non-functional requirements.
 
-****Features****
-Upload and process diverse document types and textual inputs
+This project utilizes advanced generative AI models to automate the extraction and structuring of software requirements from a wide range of inputs, including PDFs, Word documents, Excel sheets, emails, images, and web pages. By combining cutting-edge LLaMA 3 models powered through the Groq API Cloud with domain knowledge from public regulations and standards, the system delivers clear, well-organized functional and non-functional requirements.
 
-Extract key requirements using LLaMA 3 powered by Groq API Cloud
+The backend is built with FastAPI, enabling efficient handling of diverse document types through libraries like PyMuPDF, python-docx, and Tesseract OCR for text and image parsing. Requirements are enriched using semantic embeddings from HuggingFace and indexed with FAISS to ensure contextual compliance and relevance by referencing regulatory standards dynamically.
 
-Apply domain standards using embeddings and vector similarity search (FAISS)
+This AI-driven approach streamlines the traditionally manual and error-prone requirement gathering process, significantly speeding up project initiation phases while reducing ambiguity and improving regulatory compliance. The solution is designed for scalability and integration into enterprise workflows, making it a valuable tool for businesses aiming to modernize their software development lifecycle with intelligent automation.
 
-Generate organized, compliant, and unambiguous requirement documents
+If you want, I can also help you with more detailed sections like installation, usage, or architecture!
 
-Real-time interaction for clarifications and improved accuracy
 
-****Technology Stack****
-Backend Framework: FastAPI (Python)
 
-AI Model: LLaMA 3 via Groq API Cloud
 
-Document Parsing: PyMuPDF, python-docx, openpyxl, Tesseract OCR
 
-Embeddings & Search: HuggingFace embeddings, FAISS
 
-Deployment: Cloud-ready with Groq AI acceleration
 
-****Impact****
-Speeds up and automates requirement gathering workflows
 
-Enhances compliance with regulations and industry standards
-
-Reduces ambiguity and human error
-
-Scalable and adaptable for enterprise needs
 
