@@ -7,7 +7,6 @@ The backend is built with FastAPI, enabling efficient handling of diverse docume
 
 This AI-driven approach streamlines the traditionally manual and error-prone requirement gathering process, significantly speeding up project initiation phases while reducing ambiguity and improving regulatory compliance. The solution is designed for scalability and integration into enterprise workflows, making it a valuable tool for businesses aiming to modernize their software development lifecycle with intelligent automation.
 
-If you want, I can also help you with more detailed sections like installation, usage, or architecture!
 
 
 
