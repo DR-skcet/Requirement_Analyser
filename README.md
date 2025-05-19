@@ -1,35 +1,36 @@
-AI-Powered Automated Requirement Gathering System
-Overview
-An AI-driven system that automates extraction and structuring of software requirements from diverse inputs like PDFs, Word, Excel, images, emails, and web pages. It applies domain knowledge (regulations, standards) to generate clear, standardized functional and non-functional requirements.
+********AI-Powered Automated Requirement Gathering System********
 
-Workflow
-Input ingestion: Upload or provide documents/text.
+****Overview****
+This project leverages generative AI to automate the extraction and structuring of software requirements from multiple input formats such as PDFs, Word documents, Excel sheets, emails, images, and web pages. By integrating domain knowledge from public regulations and standards, it produces clear, standardized functional and non-functional requirements.
 
-Parsing: Extract text and graphics using Python libraries and OCR.
+****Features****
+Upload and process diverse document types and textual inputs
 
-Extraction: Use LLaMA 3 via Groq API Cloud to identify requirements.
+Extract key requirements using LLaMA 3 powered by Groq API Cloud
 
-Contextualization: Match extracted data with domain standards using embeddings + FAISS.
+Apply domain standards using embeddings and vector similarity search (FAISS)
 
-Output: Generate standardized requirement documents automatically.
+Generate organized, compliant, and unambiguous requirement documents
 
-Tech Stack
-Backend: FastAPI (Python)
+Real-time interaction for clarifications and improved accuracy
 
-AI Model: LLaMA 3 on Groq API Cloud
+****Technology Stack****
+Backend Framework: FastAPI (Python)
 
-Parsing: PyMuPDF, python-docx, openpyxl, Tesseract OCR
+AI Model: LLaMA 3 via Groq API Cloud
 
-Embeddings: HuggingFace + FAISS vector search
+Document Parsing: PyMuPDF, python-docx, openpyxl, Tesseract OCR
 
-Deployment: Cloud-native with Groq AI accelerators
+Embeddings & Search: HuggingFace embeddings, FAISS
 
-Impact
-Automates and speeds up requirement gathering
+Deployment: Cloud-ready with Groq AI acceleration
 
-Ensures compliance with industry standards
+****Impact****
+Speeds up and automates requirement gathering workflows
 
-Improves accuracy and reduces ambiguity
+Enhances compliance with regulations and industry standards
 
-Scalable, real-time AI-powered processing
+Reduces ambiguity and human error
+
+Scalable and adaptable for enterprise needs
 
